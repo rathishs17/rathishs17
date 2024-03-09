@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **MERN Stack Web development**
 
-- 👨‍💻 All of my projects are available at [rathish-webdev-01.netlify.app](rathish-webdev-01.netlify.app)
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **rathish2793@gmail.com**
