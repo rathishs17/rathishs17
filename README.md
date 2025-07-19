@@ -1,5 +1,5 @@
 <h1>Hiee 👋, I'm Rathish</h1>
-A passionate MERN stack developer <br><br>🌱 I’m currently learning React Native<br>👯 I’m looking to collaborate on MERN Stack Web projects<br>🤝 I’m looking for help with MERN Stack Web development<br>💬 Ask me about MERN Stack<br>📫 How to reach me rathish2793@gmail.com
+A passionate MERN stack developer <br>👯 I’m looking to collaborate on MERN Stack Web projects<br>🤝 I’m looking for help with MERN Stack Web development<br>💬 Ask me about MERN Stack<br>
 
 
 ## 🌐 Socials:
